@@ -2,7 +2,7 @@
  * @Author: yyt-66 ethanye16@outlook.com
  * @Date: 2025-12-15 19:11:48
  * @LastEditors: yyt-66 ethanye16@outlook.com
- * @LastEditTime: 2025-12-15 20:24:50
+ * @LastEditTime: 2025-12-15 20:29:36
  * @FilePath: /ws/P2S_Userguide_for_lab_of_FSII/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -36,6 +36,7 @@
 ### 💾软件安装及使用
 💻电脑端[Bambu Studio](https://bambulab.cn/zh-cn/download/studio)（win、mac、linux)   
 📱手机端[Bambu Handy](https://bambulab.cn/zh-cn/download/app)（App Store、Android可在应用商店搜索）
+
 ## ⚙️图纸与模型 
 
 ## 🔍其他支持
