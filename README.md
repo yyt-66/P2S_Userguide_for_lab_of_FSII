@@ -2,7 +2,7 @@
  * @Author: yyt-66 ethanye16@outlook.com
  * @Date: 2025-12-15 19:11:48
  * @LastEditors: yyt-66 ethanye16@outlook.com
- * @LastEditTime: 2025-12-15 22:15:17
+ * @LastEditTime: 2025-12-15 22:19:15
  * @FilePath: /ws/P2S_Userguide_for_lab_of_FSII/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -22,9 +22,13 @@
 | ----------- | :-----------: |:-----------: |
 |      | 256 * 256 * 256 mm³      |392 * 406 * 478 mm³ |  
 
-| P2S-配件参数 | 支持喷嘴直径 |支持打印板类型 |
-| ----------- | :-----------: |:-----------: |
-|      | 0.2 mm、0.4 mm（标配）、0.6 mm、0.8 mm    |纹理 PEI 打印板（标配）、光面 PEI 打印板、增稳低温打印板 |
+| 支持喷嘴直径 | 
+| ----------- | 
+|   0.2 mm、0.4 mm（标配）、0.6 mm、0.8 mm   |
+
+| 支持打印板类型 | 
+| ----------- | 
+|   纹理 PEI 打印板（标配）、光面 PEI 打印板、增稳低温打印板  |
 
 | 支持耗材类型 | 
 | ----------- | 
