@@ -2,7 +2,7 @@
  * @Author: yyt-66 ethanye16@outlook.com
  * @Date: 2025-12-15 19:11:48
  * @LastEditors: yyt-66 ethanye16@outlook.com
- * @LastEditTime: 2025-12-15 22:19:15
+ * @LastEditTime: 2025-12-15 22:22:51
  * @FilePath: /ws/P2S_Userguide_for_lab_of_FSII/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -12,7 +12,7 @@
 ---------
 
 **本使用手册针对FSII课题组内部开发者使用，所有资料均来自拓竹官方。   
-⚠️ 本机器人型号为P2S，目前未搭配AMS，请各位开发者注意甄别。**
+⚠️ 本打印机型号为P2S，目前未搭配AMS，请各位开发者注意甄别。**
 ## 📚产品资料 
 [拓竹官网 bambu official website](https://bambulab.cn/zh-cn/p2s)
 [P2S新手入门官方课程](https://bambulab.cn/zh-cn/support/academy/12） 
