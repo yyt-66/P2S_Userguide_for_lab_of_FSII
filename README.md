@@ -2,7 +2,7 @@
  * @Author: yyt-66 ethanye16@outlook.com
  * @Date: 2025-12-15 19:11:48
  * @LastEditors: yyt-66 ethanye16@outlook.com
- * @LastEditTime: 2025-12-16 12:18:11
+ * @LastEditTime: 2025-12-16 12:47:30
  * @FilePath: /ws/P2S_Userguide_for_lab_of_FSII/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -42,7 +42,8 @@
 （1）进入准备  
 ![alt text](./image/image-1.png)
 （2）导入模型  
-拖入文件（3mf(推荐)、stl、step、等格式）
+拖入文件（3mf(推荐)、stl、step、等格式）  
+‼️文件命名规范“姓名简写+模型名称”，(yyt_xiaoshuai)
 ![alt text](./image/image-2.png)
 （3）调整打印对象  
 自动配置（针对全局）：自动朝向、全局整理  
